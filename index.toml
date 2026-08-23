@@ -90,6 +90,21 @@ hash = "2a654e039efa33e70dc9fb704b28bee6fab94b156d5e6c1dc8ea585becb221a3"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "37674bd20bdb8a375ecd0fdcefd50b7c4b10134aeb0f6a5413293841e39af8f3"
+metafile = true
+
+[[files]]
+file = "mods/ars-n-spells.pw.toml"
+hash = "5205091ff96f37fe8e04e7b89c6831ef46c962e119568bab652cab5a9ddfc458"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "705856841852ca6823fb2b16c7e82c15ce251bf995ac6ac725ee5665d3b54dd1"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "1af0f2515f459bc59ac0f489ef94bf2d6e0453e57831d5711c64da695929bde9"
 metafile = true
@@ -645,32 +660,32 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "532f07775974b695733981b2548859d3bc76c743781a5da5035d40fd6e485ab0"
+hash = "ffc166baf40daccfa0a2cd383e2424a8ce260adfa31428aed45b1f0958ca3276"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
+hash = "22cdb3d10d8be3a05a94fa7e92e63b325bd537c4d568947ba5a1c5fa436a6415"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "8c8b596c0e8f7366e30ee6edbd591fba9ef16741c25a505e64de9a299cd72e80"
+hash = "a661f081c55387590bd531420962aac363b7db2c496523f44d855da73c13c057"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "41aa01e9d0507d3131eb5fd2f6d8f2b7c54237e30a94e2a3bf6f52915cb8a688"
+hash = "3ad038ad2c48591426b96dccfe79b62f40d2fe1e650e237499bb5508e0216204"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "05f825a655bc94af6ab592d13c396b60c818cfc65ff2528e206e7a40a180e210"
+hash = "f9ecd60e203af7667b68bd3adf0ee0191e3b044df17e576af7dbd27367ebeffc"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "60511ad5628ed8e45a552de171c3330bdcdbd5f86f7047e26b505b7a8c824a47"
+hash = "38707c1769d0af8f073d90ff40eb5edaccbf98cd69d0fcce5db73e2fad8e0149"
 metafile = true
 
 [[files]]
