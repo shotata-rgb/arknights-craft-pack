@@ -1,0 +1,13 @@
+name = "Caerula Arbor"
+filename = "caerula_arbor-0.11.10.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tgyKU1oY/versions/UPmja9Sg/caerula_arbor-0.11.10.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "69e7e7231fd707be60085755bfd17eb3035564d4955df088ad5c666c0243243189e365163f618171a50f85e4d36eb2db5f231baca5e1c3bbd736a7d70cbea022"
+
+[update]
+[update.modrinth]
+mod-id = "tgyKU1oY"
+version = "UPmja9Sg"

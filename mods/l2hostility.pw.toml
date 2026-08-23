@@ -1,0 +1,13 @@
+name = "L2 Hostility"
+filename = "l2hostility-2.5.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CbV689EN/versions/ou0FsY4Y/l2hostility-2.5.19.jar"
+hash-format = "sha512"
+hash = "74fabfd33397a2144f775d886712135207e29b91906b18827e127616ca9088a8d075510fc9d0e11046b89e7ec0ecfa164931702bd20dae6a5b788765cade0aef"
+
+[update]
+[update.modrinth]
+mod-id = "CbV689EN"
+version = "ou0FsY4Y"

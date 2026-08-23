@@ -1,0 +1,5 @@
+﻿# packwiz cache & exports
+.packwiz/
+*.mrpack
+*.zip
+*.log

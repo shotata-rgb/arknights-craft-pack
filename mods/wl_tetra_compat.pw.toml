@@ -1,0 +1,13 @@
+name = "Weapon Leveling x Tetra Compat"
+filename = "wl_tetra_compat-forge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c3dU646p/versions/Jn3EvJ1C/wl_tetra_compat-forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "e80c63fb3d0f915d79dd00a7512624b427e7f57b4ab2cadbd150e82d3842699bd1981ca876e69bec3ece19f530847f625e4f23acd7a4af1f8c6b794559f8d2a8"
+
+[update]
+[update.modrinth]
+mod-id = "c3dU646p"
+version = "Jn3EvJ1C"

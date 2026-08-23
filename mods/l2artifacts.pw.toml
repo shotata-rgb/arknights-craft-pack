@@ -1,0 +1,13 @@
+name = "L2 Artifacts"
+filename = "l2artifacts-2.4.28.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8RtpLoXH/versions/J6xK6xft/l2artifacts-2.4.28.jar"
+hash-format = "sha512"
+hash = "3e8a9e5db585137dff7b169d16a5144672a1d61c6da15cf16c19e917d61798209a306058caa2ad8f87e1013a1847bb31814b3a0f5c522de0e922c5b7ea3e8051"
+
+[update]
+[update.modrinth]
+mod-id = "8RtpLoXH"
+version = "J6xK6xft"

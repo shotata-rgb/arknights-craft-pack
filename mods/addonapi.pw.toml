@@ -1,0 +1,13 @@
+name = "Moff's AddonAPI-DynLoad"
+filename = "addonapi-mc1.20.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1keAhoAI/versions/rIm6xwhy/addonapi-mc1.20.1-2.1.0.jar"
+hash-format = "sha512"
+hash = "6f3f896196d8127aaf36b91bfee0a57bea60cba5b9f8a2980f961d530d22497a26740410b80f4c39e6154dda613301564fc059e5b9d10183fb74fd6613a3d91e"
+
+[update]
+[update.modrinth]
+mod-id = "1keAhoAI"
+version = "rIm6xwhy"

@@ -1,0 +1,13 @@
+name = "L2 Complements"
+filename = "l2complements-2.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oPrh2Lz3/versions/TvdiYrC4/l2complements-2.6.1.jar"
+hash-format = "sha512"
+hash = "fcb5967064ce902e6bffc1cef705cc59dafc1a941a0774d68289e2933c6bdbb5db399ab59543f663234a2061e6ade1d1f071704483aec6bd6c7f0d540ffe41b0"
+
+[update]
+[update.modrinth]
+mod-id = "oPrh2Lz3"
+version = "TvdiYrC4"

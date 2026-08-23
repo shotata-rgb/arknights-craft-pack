@@ -1,0 +1,13 @@
+name = "Enhanced Hordes"
+filename = "eh2.0-forge1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WzjqFyWg/versions/ik3VZul9/eh2.0-forge1.20.1.jar"
+hash-format = "sha512"
+hash = "69f976abc3ae29c659081106c914c03ad561012cd1dc89cc0184b14616a9a6f185e29c3587422c20ee48df6f37fcd55211b579375a44bf87092b36d22a68e0a9"
+
+[update]
+[update.modrinth]
+mod-id = "WzjqFyWg"
+version = "ik3VZul9"

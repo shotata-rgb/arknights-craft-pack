@@ -1,0 +1,13 @@
+name = "Weapon Master"
+filename = "weaponmaster-1.4.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/44bncbZS/versions/yWyGyqxz/weaponmaster-1.4.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "b65865351560e279e3a0f1dd078802be52e3f9627d999279a31a131198d8a36b763b70a13983889555f93906d112bb2d384c39f39c4f677256797a9cb813bd3f"
+
+[update]
+[update.modrinth]
+mod-id = "44bncbZS"
+version = "yWyGyqxz"

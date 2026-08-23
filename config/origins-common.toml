@@ -1,0 +1,473 @@
+
+[origins]
+
+	[origins."arkarts:holy"]
+		"arkarts:holy" = true
+		enabled = true
+
+	[origins."arks:sarkaz_vampire"]
+		"arks:sarkaz/status" = true
+		"arks:sarkaz_vampire/skill" = true
+		enabled = true
+		"arks:sarkaz_vampire/modify" = true
+
+	[origins."arks:human"]
+		"arks:human/modify" = true
+		"arks:human/status" = true
+		enabled = true
+
+	[origins."arks:durin"]
+		"arks:durin/status" = true
+		"arks:durin/technology" = true
+		enabled = true
+		"arks:durin/modify" = true
+		"arks:durin/mine" = true
+
+	[origins."arks:archosauria"]
+		"arks:archosauria/crafting_table" = true
+		"arks:archosauria/modify" = true
+		"arks:archosauria/time" = true
+		"arks:archosauria/skill" = true
+		enabled = true
+
+	[origins."arks:sarkaz_cyclops"]
+		"arks:sarkaz_cyclops/skill" = true
+		"arks:sarkaz_cyclops/modify" = true
+		"arks:sarkaz/status" = true
+		"arks:sarkaz_cyclops/time" = true
+		enabled = true
+
+	[origins."arks:seaborn"]
+		"arks:seaborn/grow" = true
+		"arks:seaborn/evolution" = true
+		"arks:seaborn/breed" = true
+		"arks:seaborn/breed_timer" = true
+		"arks:seaborn/modify" = true
+		"arks:seaborn/subsisting_timer" = true
+		"arks:seaborn/grow_timer" = true
+		"arks:seaborn/migration_timer" = true
+		enabled = true
+		"arks:seaborn/subsisting" = true
+		"arks:seaborn/waterful" = true
+		"arks:seaborn/migration" = true
+		"arks:seaborn/status" = true
+
+	[origins."origins:shulk"]
+		"origins:strong_arms" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:natural_armor" = true
+		enabled = true
+		"origins:shulker_inventory" = true
+
+	[origins."arks:nightzmora"]
+		"arks:nightzmora/modify" = true
+		"arks:nightzmora/status" = true
+		"arks:nightzmora/skill" = true
+		enabled = true
+
+	[origins."arks:perro"]
+		"arks:perro/skill" = true
+		"arks:perro/status" = true
+		"arks:perro/modify" = true
+		enabled = true
+
+	[origins."arks:lung"]
+		"arks:lung/modify" = true
+		"arks:lung/status" = true
+		enabled = true
+
+	[origins."arkskills:guard"]
+		"arkskills:guard" = true
+		enabled = true
+
+	[origins."arks:oni"]
+		"arks:oni/time" = true
+		"arks:oni/skill" = true
+		"arks:oni/modify" = true
+		enabled = true
+
+	[origins."arks:sarkaz_diablo"]
+		"arks:sarkaz_diablo/modify" = true
+		"arks:sarkaz_diablo/skill" = true
+		"arks:sarkaz/status" = true
+		enabled = true
+
+	[origins."arkarts:fire"]
+		"arkarts:fire" = true
+		enabled = true
+
+	[origins."arks:anasa"]
+		"arks:anasa/cooldown" = true
+		"arks:anasa/modify" = true
+		"arks:anasa/skill" = true
+		enabled = true
+		"arks:anasa/time" = true
+
+	[origins."arks:zalak"]
+		"arks:zalak/status" = true
+		"arks:zalak/skill" = true
+		"arks:zalak/modify" = true
+		enabled = true
+
+	[origins."arks:aslan"]
+		"arks:aslan/status" = true
+		"arks:aslan/modify" = true
+		enabled = true
+
+	[origins."arks:vouivre"]
+		"arks:vouivre/status" = true
+		"arks:vouivre/modify" = true
+		enabled = true
+
+	[origins."arkarts:novice"]
+		enabled = true
+		"arkarts:novice" = true
+
+	[origins."arks:griffin"]
+		enabled = true
+		"arks:griffin/modify" = true
+		"arks:griffin/time" = true
+
+	[origins."arks:hippogryph"]
+		"arks:hippogryph/skill" = true
+		"arks:hippogryph/modify" = true
+		enabled = true
+
+	[origins."arks:elf"]
+		"arks:elf/modify" = true
+		"arks:elf/skill" = true
+		"arks:elf/status" = true
+		enabled = true
+
+	[origins."arks:anaty"]
+		"arks:anaty/modify" = true
+		"arks:anaty/status" = true
+		enabled = true
+
+	[origins."arks:elafia"]
+		"arks:elafia/modify" = true
+		"arks:elafia/time" = true
+		"arks:elafia/skill" = true
+		"arks:elafia/status" = true
+		enabled = true
+
+	[origins."arkskills:specialist"]
+		"arkskills:specialist" = true
+		enabled = true
+
+	[origins."arks:kukulkan"]
+		"arks:kukulkan/modify" = true
+		"arks:kukulkan/status" = true
+		enabled = true
+
+	[origins."arks:sarkaz_djall"]
+		"arks:sarkaz_djall/modify" = true
+		"arks:sarkaz/status" = true
+		"arks:sarkaz_djall/skill" = true
+		enabled = true
+
+	[origins."arkarts:lightning"]
+		"arkarts:lightning" = true
+		enabled = true
+
+	[origins."arks:sarkaz_lich"]
+		"arks:sarkaz_lich/skill" = true
+		enabled = true
+		"arks:sarkaz_lich/modify" = true
+
+	[origins."origins:enderian"]
+		"origins:water_vulnerability" = true
+		"origins:throw_ender_pearl" = true
+		"origins:pumpkin_hate" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+		enabled = true
+		"origins:extra_reach" = true
+
+	[origins."arks:sarkaz_gargoyle"]
+		"arks:sarkaz_gargoyle/skill" = true
+		"arks:sarkaz/status" = true
+		"arks:sarkaz_gargoyle/modify" = true
+		enabled = true
+
+	[origins."arkskills:sniper"]
+		"arkskills:sniper" = true
+		enabled = true
+
+	[origins."arks:seaborn_endspeaker"]
+		"arks:seaborn_endspeaker/time" = true
+		"arks:seaborn_endspeaker/skill" = true
+		"arks:seaborn_endspeaker/modify1" = true
+		"arks:seaborn/modify" = true
+		"arks:seaborn/waterful" = true
+		"arks:seaborn_endspeaker/power" = true
+		"arks:seaborn/status" = true
+		enabled = true
+
+	[origins."arks:forte"]
+		"arks:forte/status" = true
+		"arks:forte/modify" = true
+		"arks:forte/skill" = true
+		enabled = true
+
+	[origins."origins:elytrian"]
+		"origins:more_kinetic_damage" = true
+		"origins:elytra" = true
+		"origins:claustrophobia" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:launch_into_air" = true
+		enabled = true
+
+	[origins."arks:manticore"]
+		"arks:manticore/status" = true
+		enabled = true
+		"arks:manticore/modify" = true
+
+	[origins."arks:seahunter"]
+		"arks:seahunter/status" = true
+		"arks:agir/crafting_table" = true
+		"arks:agir/waterful" = true
+		"arks:seahunter/modify" = true
+		enabled = true
+
+	[origins."arkarts:evocation"]
+		"arkarts:evocation" = true
+		enabled = true
+
+	[origins."arkarts:nature"]
+		"arkarts:nature" = true
+		enabled = true
+
+	[origins."arks:ursus"]
+		"arks:ursus/status" = true
+		"arks:ursus/skill" = true
+		"arks:ursus/modify" = true
+		enabled = true
+
+	[origins."origins:arachnid"]
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins:arthropod" = true
+		"origins:master_of_webs" = true
+		enabled = true
+		"origins:climbing" = true
+
+	[origins."arks:pegasus"]
+		"arks:pegasus/modify" = true
+		"arks:pegasus/status" = true
+		"arks:pegasus/time" = true
+		enabled = true
+
+	[origins."arks:petram"]
+		"arks:petram/status" = true
+		"arks:petram/modify" = true
+		enabled = true
+
+	[origins."origins:feline"]
+		"origins:cat_vision" = true
+		"origins:velvet_paws" = true
+		"origins:fall_immunity" = true
+		"origins:weak_arms" = true
+		"origins:nine_lives" = true
+		enabled = true
+		"origins:sprint_jump" = true
+		"origins:scare_creepers" = true
+
+	[origins."arkarts:ender"]
+		"arkarts:ender" = true
+		enabled = true
+
+	[origins."arks:sarkaz_nachzehrer"]
+		"arks:sarkaz_nachzehrer/modify" = true
+		"arks:sarkaz_nachzehrer/skill" = true
+		"arks:sarkaz/status" = true
+		enabled = true
+
+	[origins."arks:sarkaz"]
+		"arks:sarkaz/status" = true
+		enabled = true
+
+	[origins."arks:caprinae"]
+		"arks:caprinae/magic_damage" = true
+		"arks:caprinae/magic_ray" = true
+		"arks:caprinae/modify" = true
+		"arks:caprinae/status" = true
+		enabled = true
+
+	[origins."arks:sarkaz_wendigo"]
+		"arks:sarkaz/status" = true
+		"arks:sarkaz_wendigo/skill" = true
+		enabled = true
+		"arks:sarkaz_wendigo/modify" = true
+
+	[origins."arks:cautus"]
+		"arks:cautus/modify" = true
+		"arks:cautus/status" = true
+		enabled = true
+
+	[origins."origins:phantom"]
+		"origins:phasing" = true
+		"origins:fragile" = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:invisibility" = true
+		"origins:hunger_over_time" = true
+		enabled = true
+		"origins:burn_in_daylight" = true
+		"origins:phantomize_overlay" = true
+
+	[origins."arks:lupo"]
+		"arks:lupo/status" = true
+		"arks:lupo/modify" = true
+		enabled = true
+
+	[origins."arks:draco"]
+		"arks:draco/status" = true
+		"arks:draco/modify" = true
+		enabled = true
+
+	[origins."arks:agir"]
+		"arks:agir/seahunter" = true
+		"arks:agir/crafting_table" = true
+		"arks:agir/status" = true
+		"arks:agir/waterful" = true
+		"arks:agir/modify" = true
+		enabled = true
+
+	[origins."origins:avian"]
+		"origins:fresh_air" = true
+		"origins:vegetarian" = true
+		"origins:lay_eggs" = true
+		"origins:slow_falling" = true
+		"origins:tailwind" = true
+		"origins:like_air" = true
+		enabled = true
+
+	[origins."arkarts:blood"]
+		"arkarts:blood" = true
+		enabled = true
+
+	[origins."arks:feline"]
+		"arks:feline/status" = true
+		"arks:feline/modify" = true
+		enabled = true
+
+	[origins."arks:savra"]
+		"arks:savra/modify" = true
+		"arks:savra/skill" = true
+		enabled = true
+		"arks:savra/status" = true
+		"arks:savra/time" = true
+
+	[origins."arkarts:ice"]
+		"arkarts:ice" = true
+		enabled = true
+
+	[origins."arkskills:defender"]
+		"arkskills:defender" = true
+		enabled = true
+
+	[origins."arks:anura"]
+		"arks:anura/status" = true
+		"arks:anura/modify" = true
+		"arks:anura/skill" = true
+		enabled = true
+
+	[origins."arks:vulpo"]
+		"arks:vulpo/modify" = true
+		"arks:vulpo/status" = true
+		"arks:vulpo/skill" = true
+		enabled = true
+
+	[origins."arks:sarkaz_banshee"]
+		"arks:sarkaz_banshee/time" = true
+		"arks:sarkaz_banshee/skill" = true
+		"arks:sarkaz/status" = true
+		"arks:sarkaz_banshee/modify" = true
+		enabled = true
+
+	[origins."origins:human"]
+		enabled = true
+
+	[origins."arks:kylin"]
+		"arks:kylin/modify" = true
+		"arks:kylin/time" = true
+		"arks:kylin/skill" = true
+		enabled = true
+
+	[origins."arkskills:vanguard"]
+		enabled = true
+		"arkskills:vanguard" = true
+
+	[origins."arks:kuranta"]
+		"arks:kuranta/status" = true
+		"arks:kuranta/modify" = true
+		"arks:kuranta/skill" = true
+		enabled = true
+
+	[origins."arks:liberi"]
+		"arks:liberi/modify" = true
+		"arks:liberi/skill" = true
+		"arks:liberi/status" = true
+		enabled = true
+
+	[origins."arks:sarkaz_nephesh"]
+		"arks:sarkaz/status" = true
+		"arks:sarkaz_nephesh/modify" = true
+		enabled = true
+		"arks:sarkaz_nephesh/skill" = true
+
+	[origins."origins:merling"]
+		"origins:air_from_potions" = true
+		"origins:swim_speed" = true
+		"origins:water_vision" = true
+		"origins:like_water" = true
+		"origins:aqua_affinity" = true
+		"origins:water_breathing" = true
+		"origins:conduit_power_on_land" = true
+		enabled = true
+		"origins:aquatic" = true
+
+	[origins."arks:sankta"]
+		"arks:sankta/status" = true
+		"arks:sankta/modify" = true
+		enabled = true
+		"arks:sankta/skill" = true
+
+	[origins."arks:sarkaz_goliath"]
+		"arks:sarkaz_goliath/skill" = true
+		"arks:sarkaz_goliath/modify" = true
+		"arks:sarkaz/status" = true
+		enabled = true
+
+	[origins."origins:blazeborn"]
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:burning_wrath" = true
+		"origins:hotblooded" = true
+		"origins:fire_immunity" = true
+		"origins:damage_from_snowballs" = true
+		"origins:nether_spawn" = true
+		"origins:damage_from_potions" = true
+		enabled = true
+
+	[origins."arks:phidia"]
+		"arks:phidia/status" = true
+		enabled = true
+		"arks:phidia/modify" = true
+
+	[origins."arkskills:supporter"]
+		enabled = true
+		"arkskills:supporter" = true
+
+	[origins."arkskills:medic"]
+		enabled = true
+		"arkskills:medic" = true
+
+	[origins."arkskills:caster"]
+		enabled = true
+		"arkskills:caster" = true
+
