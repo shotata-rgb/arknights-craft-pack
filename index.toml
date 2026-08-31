@@ -82,7 +82,7 @@ hash = "95f608053b564c73d1dec4dc9e2ee1f3c38b5fb92588f247ca87bb3bccc1b58d"
 
 [[files]]
 file = "mods/arknights_skills_full-1.0.0-1.20.1.jar"
-hash = "b758e7bab64ee89609243bcd0064843779bd15d006654b119587cb896d493666"
+hash = "7a2f11216eda9cdd4839441101a2807bfef4c39ad76ec38ba81eae3b8c9dd639"
 
 [[files]]
 file = "mods/arknightsfurniture.pw.toml"
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/oripathymod-1.0.0.jar"
-hash = "940f7ee48ac3e36a9b2470bb6cc5492206fa84f38d900044c6bfe76b7bc22f87"
+hash = "a0fac286dbea2b22dbe41371bde92b6cd8c6f74e79c0e367b66b24c6af17fffe"
 
 [[files]]
 file = "mods/patchouli.pw.toml"
