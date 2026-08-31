@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/oripathymod-1.0.0.jar"
-hash = "8aca3af31cf51c58051a4e11867b5b58615fdb4b9a4e178b07682b01686a44e5"
+hash = "d6ace03973a91c801ae04608e63cde6c0a7f67d47b1e2e827c8b7f40b680d1c4"
 
 [[files]]
 file = "mods/patchouli.pw.toml"
