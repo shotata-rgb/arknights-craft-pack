@@ -302,6 +302,10 @@ file = "mods/ftb-library-forge-2001.2.13.jar"
 hash = "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"
 
 [[files]]
+file = "mods/ftb-quests-forge-2001.4.22.jar"
+hash = "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68"
+
+[[files]]
 file = "mods/ftb-teams-forge-2001.3.2.jar"
 hash = "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07"
 
@@ -452,6 +456,10 @@ metafile = true
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
+
+[[files]]
+file = "mods/operator_skills-0.3.7.jar"
+hash = "734395040a35d87de8fa3ee7dbb65122df3c9a9f75cc74467491123a9845e0ba"
 
 [[files]]
 file = "mods/originiumarts.pw.toml"
