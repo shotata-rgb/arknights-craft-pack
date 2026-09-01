@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bobsoriginiumdream:oriexplosionbag"
+    }
+  ],
+  "result": {
+    "item": "oripathymod:originium_dust",
+    "count": 7
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "psi:bullet_upgrade",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "psi:spell_bullet"
+    },
+    {
+      "tag": "oripathymod:originium_dust"
+    }
+  ],
+  "result": {
+    "item": "psi:spell_bullet_grenade"
+  }
+}

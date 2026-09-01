@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "oripathymod:originium_dust"
+  },
+  "material": "tconstruct:gunpowder",
+  "needed": 4,
+  "value": 1
+}

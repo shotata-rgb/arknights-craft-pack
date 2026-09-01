@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "hostilenetworks:overworld_prediction" },
+    { "item": "minecraft:coal" }
+  ],
+  "result": {
+    "item": "oripathymod:originium_dust",
+    "count": 16
+  }
+}
