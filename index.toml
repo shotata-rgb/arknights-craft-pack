@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e5783a4dcd42a4a556db146c0e38d49cebadcb7f440265ed4a7bbb6598fcc9c7"
+hash = "c013770d204b604fd7ee2aa9808636c00ebac3933806b88c3a9b14ae06d70277"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/fletching/explosive_arrow.json"
@@ -10,15 +10,15 @@ hash = "e23e69a0b67ed5592066bffc9b43c28ff5981c32ac57904e1ebd0270ee16f158"
 
 [[files]]
 file = "kubejs/data/ars_nouveau/recipes/fire_essence_to_charge.json"
-hash = "d9481b144d8656569dc3d0043100804ccb2bf1885c1f37bf53fba28a72608c64"
+hash = "b8831d5d1ec8c7e2e31bbbd8a0d9016a9ed7787cd2868179b8bce0ad70e940f8"
 
 [[files]]
 file = "kubejs/data/ars_nouveau/recipes/imbuement_fire_essence.json"
-hash = "dbe584203945e866e390a1ba2be064e451f59ecf8176cfce2c4a92cf26a4488b"
+hash = "3ff849a612b237268811efdccc25365855a5534259c99b107bc1936a68836948"
 
 [[files]]
 file = "kubejs/data/ars_nouveau/recipes/splash_flask_cannon.json"
-hash = "87bbd01e112501b7010ed447721af42c277b24481984950871556df77c12ca08"
+hash = "fd9a0ad2491b59dd8a0c5070156640642fb770041c08a82c200d78357301cc3c"
 
 [[files]]
 file = "kubejs/data/bobsoriginiumdream/recipes/oriexplosion.json"
@@ -66,11 +66,11 @@ hash = "7edc2afb278453a9d3f240d7c494b73e56635da6120cceae655dcc51db8ea871"
 
 [[files]]
 file = "kubejs/data/lrtactical/recipes/throwable/m67.json"
-hash = "1365e1452073b7e8f84889b281c872ce3b98f8da5a6bae3a5d6964383b374955"
+hash = "1755ed25e1746039dd4ddf75f46c4cf38feac7fc666adab968d9d8ad53c248fb"
 
 [[files]]
 file = "kubejs/data/lrtactical/recipes/throwable/rgn.json"
-hash = "2bf2d154a1d84b4a2a8cc23489c4b21d25320822155cec6af03a39a1aa71f2c4"
+hash = "2ac5762161a9f80b533840521e6b109ecdf3a1cc95cbb5f69ba6f93227446d75"
 
 [[files]]
 file = "kubejs/data/mekanism/recipes/crushing/flint_to_gunpowder.json"
@@ -90,19 +90,19 @@ hash = "a67c0d842e0316f78d3f387426793ef9805ad5e702a8bcc440eeb05fbd9061a3"
 
 [[files]]
 file = "kubejs/data/mob_grinding_utils/recipes/recipe_cursed_feed.json"
-hash = "96d7e615ca18cc5fc031d496a9ddbdd150e475d5192fd2c776e5965d65dbddf5"
+hash = "8cf4f2e746374b31e157eeea49b00dae14107958f1134727de52ab9c3567967b"
 
 [[files]]
 file = "kubejs/data/mysticalagriculture/recipes/enchanter/blast_protection.json"
-hash = "ea9f61daafe6ff38b5d8c22291be7620c1587fc13ea76442c54ef803d24ca11b"
+hash = "c7f07ef37b1d30761d651c77ea77e56b9c6eaaf67696ce44562bfd907bfe093a"
 
 [[files]]
 file = "kubejs/data/mysticalagriculture/recipes/essence/minecraft/gunpowder.json"
-hash = "e0b0741f5f1a01feef5c611ae366eff091a4f42ee6545eb9992826d2106b052a"
+hash = "8fd97e14f4be6d4bacf2684047cc4c4908288a2af5c9eae9bc978d6b1433e81a"
 
 [[files]]
 file = "kubejs/data/mysticalagriculture/recipes/souls/gunpowder.json"
-hash = "dfe5ced930d6426cd79593b744504528ede631030c03b1cac5971cc2d1f52028"
+hash = "eb23d433d43e6522c28476857cf68d695a6066084172ce4f5e8764d43c493769"
 
 [[files]]
 file = "kubejs/data/occultism/recipes/ritual/familiar_dragon.json"
@@ -154,7 +154,7 @@ hash = "26e092ae0e4344708c02579ff7a3d019817b1fd9130194444874bfb93c422367"
 
 [[files]]
 file = "kubejs/data/superbwarfare/recipes/compat/create/mixing/high_energy_explosives.json"
-hash = "7848c2ea627dfe5a0f800bee9ece483750ef6a555f8750d92cadbd90a999ac87"
+hash = "3ef0bb2bce26bd39ba6ea6491fe6bbcc24b72b8673e7101a1393d7a1ebad4855"
 
 [[files]]
 file = "kubejs/data/superbwarfare/recipes/grain.json"
@@ -206,7 +206,7 @@ hash = "dbe4b1bac1e04a1a9cd4551d4ac855d47f7a496361a62f4f4438123a5535f3c5"
 
 [[files]]
 file = "kubejs/data/tacz/recipes/gunpowder.json"
-hash = "2e98bc29268a10e5b6de4e77e495ab283a1a83e24770a239dcfdac142b98d957"
+hash = "3bb7c28571c98c08bb312e76ceaf242b730bfc9d00ca0ca95f46e1d381f9bf00"
 
 [[files]]
 file = "kubejs/data/tconstruct/recipes/gadgets/throwball/efln_ball.json"
