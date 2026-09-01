@@ -1,1 +1,1 @@
-﻿ServerEvents.recipes(event => { event.replaceInput({}, 'minecraft:gunpowder', 'oripathymod:originium_dust'); event.replaceInput({}, '#forge:gunpowder', 'oripathymod:originium_dust'); event.replaceOutput({}, 'minecraft:gunpowder', 'oripathymod:originium_dust'); });
+ServerEvents.recipes(event => { event.replaceInput({}, 'minecraft:gunpowder', 'oripathymod:originium_dust'); event.replaceInput({}, '#forge:gunpowder', 'oripathymod:originium_dust'); event.replaceOutput({}, 'minecraft:gunpowder', 'oripathymod:originium_dust'); });

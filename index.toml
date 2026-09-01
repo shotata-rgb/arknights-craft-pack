@@ -6,7 +6,7 @@ hash = "e5783a4dcd42a4a556db146c0e38d49cebadcb7f440265ed4a7bbb6598fcc9c7"
 
 [[files]]
 file = "kubejs/server_scripts/replace_gunpowder.js"
-hash = "b54ffec73174ce263e9ec334918f6318ace2c4dcad63388f9e0c6e1fe76fa875"
+hash = "4b28ea9123f8c641db668a7a8b6daa38a78d5bf6b487940e3e5f30abe171ebf3"
 
 [[files]]
 file = "mods/Clumps-forge-1.20.1-12.0.0.4.jar"
