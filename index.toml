@@ -5,6 +5,10 @@ file = "README.md"
 hash = "e5783a4dcd42a4a556db146c0e38d49cebadcb7f440265ed4a7bbb6598fcc9c7"
 
 [[files]]
+file = "kubejs/server_scripts/replace_gunpowder.js"
+hash = "2e783ce77d76270230e21eacad56dc2c1edd9939e727aec27a8add0f051da657"
+
+[[files]]
 file = "mods/Clumps-forge-1.20.1-12.0.0.4.jar"
 hash = "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a"
 
@@ -373,6 +377,11 @@ hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "9ec37ad87c0c174bdafe7d52fc98f96b83aaef0ad42ae59e196655d3d784f31f"
+metafile = true
+
+[[files]]
 file = "mods/l2-complements.pw.toml"
 hash = "344d58be1680b7a7d4c5e132a4a7ab52d897d6194455301219e9ec01af481b3c"
 metafile = true
@@ -508,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished_furniture-forge-1.20.1-1.0.20.jar"
 hash = "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
 
 [[files]]
 file = "mods/rpl.pw.toml"
