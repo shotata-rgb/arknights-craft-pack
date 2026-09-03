@@ -89,10 +89,6 @@ file = "mods/arknights_races-1.5.0-1.20.1-forge.jar"
 hash = "ec45ce478f76140f17992fe3cdd00b63d96fc65e3fc863d615fe33d3564e6280"
 
 [[files]]
-file = "mods/arknights_races-1.5.0-1.20.1-forge.jar.bak"
-hash = "95f608053b564c73d1dec4dc9e2ee1f3c38b5fb92588f247ca87bb3bccc1b58d"
-
-[[files]]
 file = "mods/arknights_skills_full-1.0.0-1.20.1.jar"
 hash = "7a2f11216eda9cdd4839441101a2807bfef4c39ad76ec38ba81eae3b8c9dd639"
 
