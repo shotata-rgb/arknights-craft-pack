@@ -262,11 +262,6 @@ file = "mods/create-1.20.1-6.0.8.jar"
 hash = "2b4f9c94a21f8e83f7a113b75fcaf2bab4e3abe8e9a1f8392164c83de18af308"
 
 [[files]]
-file = "mods/create-ars-nouveau-compat.pw.toml"
-hash = "2152327b9875697c55ea9f31809f83b0ae143abd8f5efe6e2ae69ae51432cf31"
-metafile = true
-
-[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "c64e1f8850019986e1974adc68edfe7bbcedd3bd7ac2008df07ca32a41f4a574"
 metafile = true
@@ -325,6 +320,10 @@ metafile = true
 file = "mods/create-wizardry.pw.toml"
 hash = "39bb49bbc9d9dae23c1d5313b52b9faeb36dcc0e08bfb56b2d109d5fb32a20eb"
 metafile = true
+
+[[files]]
+file = "mods/create_ars_nouveau_compat-1.21.1-1.0.jar"
+hash = "bbe43eac6a112f6fd6e10e2abd25941c6943831114b089f9ade9d8155f7a6fa8"
 
 [[files]]
 file = "mods/create_ironspell_recipe-1.2.0-forge-1.20.1.jar"
