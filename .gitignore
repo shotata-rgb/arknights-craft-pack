@@ -5,4 +5,3 @@
 *.log
 
 # Large mods (>100MB) excluded from GitHub backup (distributed via remote Nginx)
-mods/L_Enders_Cataclysm*.jar
