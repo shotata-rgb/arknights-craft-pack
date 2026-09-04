@@ -1,0 +1,13 @@
+name = "v1.1"
+filename = "create-dd-ore-veins-disabler-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OkZtwdmt/versions/pQ2UTLTN/create-dd-ore-veins-disabler-1.1.jar"
+hash-format = "sha512"
+hash = "3b25da8c266df6ea82e63eee79f04f2e480addd6c2722b0b7519bf85b444ecc7e180cbbd68a501de5274a4659481c8434982ad612cc069b2735521a58300a083"
+
+[update]
+[update.modrinth]
+mod-id = "OkZtwdmt"
+version = "pQ2UTLTN"

@@ -1,0 +1,13 @@
+name = "Epic Fight - Weapons Of Harmony 1.3.1"
+filename = "1.3.1-WeaponsOfHarmony-Forge-EMF-20.14.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tPmAEGAv/versions/D5xC7qOm/1.3.1-WeaponsOfHarmony-Forge-EMF-20.14.4.jar"
+hash-format = "sha512"
+hash = "62a285eb8f9930e3facfdd8d619ace72c817dc4e53010afeb9a04c872e2e718e6ff6b2820e0ffb545e67233211a2dde31be921971b80fda7b7655242210d3bbe"
+
+[update]
+[update.modrinth]
+mod-id = "tPmAEGAv"
+version = "D5xC7qOm"

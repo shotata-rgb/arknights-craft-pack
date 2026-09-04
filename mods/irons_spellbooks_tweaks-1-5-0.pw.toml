@@ -1,0 +1,13 @@
+name = "Iron's Spellbooks Tweaks 1.5.0 - Forge 1.20.1"
+filename = "irons_spellbooks_tweaks-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Km6YZ1yF/versions/KTt0kq5Y/irons_spellbooks_tweaks-1.5.0.jar"
+hash-format = "sha512"
+hash = "62c3f9e49faac635e3d4ea3ec5afc9fb08680918818c8d690317a98b3bc8dc8e7cab40b6c2313098185c635c5a6cac70be664a77ac49431e762bef18a1ce7793"
+
+[update]
+[update.modrinth]
+mod-id = "Km6YZ1yF"
+version = "KTt0kq5Y"

@@ -1,0 +1,13 @@
+name = "Battle Arts 20.14.16.10"
+filename = "BattleArts-20.14.16.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dd6vT4jF/versions/yFmy6vaL/BattleArts-20.14.16.10.jar"
+hash-format = "sha512"
+hash = "ca8c37036a02f2d0d0f046ca1156b5b7f646ce4948d6ba157ea301bc940bfae935b302847da330f63e95438ff0febfabde13f46a194ad24a82fef76d364e67e8"
+
+[update]
+[update.modrinth]
+mod-id = "Dd6vT4jF"
+version = "yFmy6vaL"

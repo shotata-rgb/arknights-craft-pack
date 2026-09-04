@@ -1,0 +1,13 @@
+name = "Create: Dreams n' Desires Updated to Create 6 1.1.1"
+filename = "ddtocreate6-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JqH6NesZ/versions/bCZSYEhu/ddtocreate6-1.1.1.jar"
+hash-format = "sha512"
+hash = "ad029bd5fba7cbd75cbdd6d07758d58c137e75d2153bdcb0cd09fe83abb2eb18594ae05648a5853df5a29232ceb4499b84cebc36555d387cfcea5d8cf783d10b"
+
+[update]
+[update.modrinth]
+mod-id = "JqH6NesZ"
+version = "bCZSYEhu"

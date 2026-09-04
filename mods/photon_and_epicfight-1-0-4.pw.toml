@@ -1,0 +1,13 @@
+name = "Photon & EpicFight 1.0.4"
+filename = "photon_and_epicfight-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/doUGSy1F/versions/1jvfKBeK/photon_and_epicfight-1.0.4.jar"
+hash-format = "sha512"
+hash = "fdb3b9ffd9ed458035fe6936fe2d99d2678e033e205dece26e0b22455fd829bcade10ccecb7cb517018b0e46989505a1f7969869a266c13278eefa2873729a7a"
+
+[update]
+[update.modrinth]
+mod-id = "doUGSy1F"
+version = "1jvfKBeK"

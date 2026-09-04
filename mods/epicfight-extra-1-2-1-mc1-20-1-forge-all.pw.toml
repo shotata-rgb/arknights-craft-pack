@@ -1,0 +1,13 @@
+name = "1.2.1-mc1.20.1-forge"
+filename = "epicfight-extra-1.2.1-mc1.20.1-forge-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ttzcrj0w/versions/qnWdCoWH/epicfight-extra-1.2.1-mc1.20.1-forge-all.jar"
+hash-format = "sha512"
+hash = "e535d5c9283cf9c39214d0280f0d4a60731074518598eeca93d4e9a31005f7c696e64885e831575136ea4e5716d730712f9c13ad95f28982c4e6c347b55dbc59"
+
+[update]
+[update.modrinth]
+mod-id = "ttzcrj0w"
+version = "qnWdCoWH"
