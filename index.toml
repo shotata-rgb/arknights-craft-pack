@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/daffasarsenal.pw.toml"
-hash = "a4a153883d9087b78adc460703f6a4af3cd3f55a1fb7236415d58da08303b2b6"
+hash = "56523930fb312cca82efc62bbbaee27c789e69ac7d2d2dd7a084b4098029c4be"
 metafile = true
 
 [[files]]
@@ -438,9 +438,8 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
-file = "mods/enchanted_arsenal-1-0-1-forge-1-20-1.pw.toml"
-hash = "f88c779c6af0c6742542cedd5af7002057664fb16ce1ace9a4a9cad85cd118bb"
-metafile = true
+file = "mods/enchanted_arsenal-1.0.1-forge-1.20.1.jar"
+hash = "961eb2909276ae4a653734db1afb5dc6ae32e75b1ac1a82bb38c02ffd2b1a61c"
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
