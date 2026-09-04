@@ -10,7 +10,7 @@ hash = "d07af95da89e2f2b77d39ab83e27fe1cba56a43537af88c79f13bfab68736bba"
 
 [[files]]
 file = "config/weaponleveling.json"
-hash = "d6d9856a4ec1d01a7f7de7e9a01e2a060ceaea20e848dd22032df6bdda4d4da0"
+hash = "6ac304c2daf0a5878d55d0628613fe69fa8dd17221544cf85f75b79244f99b06"
 
 [[files]]
 file = "config/weaponmaster-common.toml"
@@ -115,10 +115,6 @@ metafile = true
 [[files]]
 file = "mods/arknights_races-1.5.0-1.20.1-forge.jar"
 hash = "2cc032c3c9a55f12628eb7f00a9d1be59b0a6ef54ec411ddad0e5ecce9085800"
-
-[[files]]
-file = "mods/arknights_races-1.5.0-1.20.1-forge.jar.bak"
-hash = "ec45ce478f76140f17992fe3cdd00b63d96fc65e3fc863d615fe33d3564e6280"
 
 [[files]]
 file = "mods/arknights_skills_full-1.0.0-1.20.1.jar"
