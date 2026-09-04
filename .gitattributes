@@ -1,1 +1,5 @@
-* text=auto eol=lf
+* text=auto
+*.toml text eol=lf
+*.pw.toml text eol=lf
+*.json text eol=lf
+*.mcmeta text eol=lf

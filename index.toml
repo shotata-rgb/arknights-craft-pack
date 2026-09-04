@@ -6,7 +6,7 @@ hash = "c013770d204b604fd7ee2aa9808636c00ebac3933806b88c3a9b14ae06d70277"
 
 [[files]]
 file = "config/epicfight-common.toml"
-hash = "51ceb231583b474189308cfebbb7c2971c828072980fec11094bfbeff1fc8574"
+hash = "d07af95da89e2f2b77d39ab83e27fe1cba56a43537af88c79f13bfab68736bba"
 
 [[files]]
 file = "config/weaponleveling.json"
@@ -14,7 +14,7 @@ hash = "d6d9856a4ec1d01a7f7de7e9a01e2a060ceaea20e848dd22032df6bdda4d4da0"
 
 [[files]]
 file = "config/weaponmaster-common.toml"
-hash = "5659d53fbeeb52458ec607a9bd22750f1acd013b07ee98658f5877764ce1aa77"
+hash = "2e98fc3a691948489e5c1d5682d2108857655d466e980dece0e135b6dbb3a9d8"
 
 [[files]]
 file = "kubejs/server_scripts/gunpowder_overrides.js"
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "b01a46ebd9ddf62e12e2f2dfe80f8e62596091aa0b1296f1a67c779837d7c6aa"
+hash = "5f7d1503329f3669d3e5848ccd52fc6b9727dc18ecb21f4cd5c042fa4ca8a304"
 metafile = true
 
 [[files]]
