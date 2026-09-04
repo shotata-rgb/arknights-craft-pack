@@ -94,6 +94,10 @@ metafile = true
 
 [[files]]
 file = "mods/arknights_races-1.5.0-1.20.1-forge.jar"
+hash = "2cc032c3c9a55f12628eb7f00a9d1be59b0a6ef54ec411ddad0e5ecce9085800"
+
+[[files]]
+file = "mods/arknights_races-1.5.0-1.20.1-forge.jar.bak"
 hash = "ec45ce478f76140f17992fe3cdd00b63d96fc65e3fc863d615fe33d3564e6280"
 
 [[files]]
