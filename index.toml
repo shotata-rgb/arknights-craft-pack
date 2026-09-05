@@ -475,10 +475,6 @@ hash = "9c5de190baf0604a3856ae7c5994a948cd7ad1f1b116c778b3df378800284fe8"
 metafile = true
 
 [[files]]
-file = "mods/epictaczcompat_1.20.1_1201-0.6.0.jar"
-hash = "b7b3198f22bf02c5bb88f56ab92358efed23b937fb9786620bb9a5648fac6422"
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "8d11358dfd1f3591ee0ce8728d6a3234e1edef5db39c52fe68264ecf7684968d"
 metafile = true
@@ -951,6 +947,10 @@ metafile = true
 file = "mods/weapon-master.pw.toml"
 hash = "663f422b47d9ff3421e9d52569619c08373f255bce3f67a85c07c3c98b932aef"
 metafile = true
+
+[[files]]
+file = "mods/weaponmaster_epicfight_compat-1.0.0.jar"
+hash = "7d68eb33302e728deba74b4a193bc7d89cd12befc6b7c748e028406e17233a0e"
 
 [[files]]
 file = "mods/weaponsofmiracles-2-0-171-mc1-20-1-forge.pw.toml"
