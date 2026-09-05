@@ -950,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/weaponmaster_epicfight_compat-1.0.0.jar"
-hash = "7d68eb33302e728deba74b4a193bc7d89cd12befc6b7c748e028406e17233a0e"
+hash = "ef07e12da022f88f03c60eaa3968336eb498d7af39b58993d23588bd0bbda857"
 
 [[files]]
 file = "mods/weaponsofmiracles-2-0-171-mc1-20-1-forge.pw.toml"
