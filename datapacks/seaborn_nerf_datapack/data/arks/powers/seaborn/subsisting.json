@@ -1,0 +1,20 @@
+{
+  "type": "origins:multiple",
+  "breed_2": {
+    "type": "origins:conditioned_attribute",
+    "modifiers": [
+      {
+        "attribute": "minecraft:generic.movement_speed",
+        "value": -0.1,
+        "operation": "multiply_base"
+      }
+    ],
+    "tick_rate": 20,
+    "condition": {
+      "type": "origins:resource",
+      "resource": "arks:seaborn/subsisting_timer",
+      "comparison": ">=",
+      "compare_to": 50
+    }
+  }
+}
