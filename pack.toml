@@ -1,12 +1,12 @@
 name = "Arknights Craft"
 author = "shotata"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5cc6c4d54c1315644202412fc3e80e5436fa0d2851a86d9ce7a51b614c68c651"
+hash = "534f610a81f826277781e68683e6e0ae7526081cdb1989dff1d3765ab1ce4e75"
 
 [versions]
 forge = "47.4.10"

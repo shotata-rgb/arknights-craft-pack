@@ -3,5 +3,6 @@
 *.mrpack
 *.zip
 *.log
+!tlm_custom_pack/operator-skills-tlm-models-1.3.0.zip
 
 # Large mods (>100MB) excluded from GitHub backup (distributed via remote Nginx)

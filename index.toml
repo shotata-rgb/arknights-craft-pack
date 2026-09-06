@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "c013770d204b604fd7ee2aa9808636c00ebac3933806b88c3a9b14ae06d70277"
+hash = "78ab7ab3c96b6a162d298ed1eb57290fc979eb77bf736bf311998c6039a16f23"
+
+[[files]]
+file = "SEABORN_DATAPACK_DEPLOY.md"
+hash = "4154c4c940fcb2a3110cc1320917a5576906793fa993bb349875697a244a2ac1"
 
 [[files]]
 file = "config/epicfight-common.toml"
@@ -17,12 +21,40 @@ file = "config/weaponmaster-common.toml"
 hash = "2e98fc3a691948489e5c1d5682d2108857655d466e980dece0e135b6dbb3a9d8"
 
 [[files]]
+file = "datapacks/seaborn_nerf_datapack/data/arks/functions/seaborn_hunter_load.mcfunction"
+hash = "0b42bb8a5170e07778b509d400113dd39b5924688df7ef35c05e37779f838bf2"
+
+[[files]]
+file = "datapacks/seaborn_nerf_datapack/data/arks/functions/seaborn_hunter_schedule.mcfunction"
+hash = "16d0fb4e29986a3bff53e14107e19153a9eb5ffbb8fff5be0c529dde001e8cb5"
+
+[[files]]
+file = "datapacks/seaborn_nerf_datapack/data/arks/functions/seaborn_hunter_tick.mcfunction"
+hash = "8040cdeef3c842333922b6dee43f55e0196efe3d0a4ef21e9d620eb8178338de"
+
+[[files]]
+file = "datapacks/seaborn_nerf_datapack/data/arks/origins/seaborn.json"
+hash = "e7263baa437c4be52358dc51558177609d58ad7dc156e1c4c41f6b6209514f21"
+
+[[files]]
+file = "datapacks/seaborn_nerf_datapack/data/arks/powers/seaborn/subsisting.json"
+hash = "6a682b1f7f1692a7b94ae3e89141059d649d351ed83d70033fb3084fc87a9284"
+
+[[files]]
+file = "datapacks/seaborn_nerf_datapack/data/minecraft/tags/functions/load.json"
+hash = "8ddd811df8bb39d7ddac10c6108e02ea2b56c747ab8772eda151fdca6fe7903c"
+
+[[files]]
+file = "datapacks/seaborn_nerf_datapack/pack.mcmeta"
+hash = "4831b1dd6a08dc3d6c0a6985814a46449bd7df8dd985019d06779a964e00ac77"
+
+[[files]]
 file = "kubejs/server_scripts/gunpowder_overrides.js"
-hash = "c59eb9401bf9e4f8067e1cec1789eda6930e6f06a228230e4affa6681a55af47"
+hash = "15f012141b97938ff888601a0a444c3cc9bca0929e3a9e16a5cf10a49036bdc6"
 
 [[files]]
 file = "kubejs/server_scripts/replace_gunpowder.js"
-hash = "4b28ea9123f8c641db668a7a8b6daa38a78d5bf6b487940e3e5f30abe171ebf3"
+hash = "02d690876eca00083fba607f059f197b17a063b1be3e689ddeb6d3b296f86bd9"
 
 [[files]]
 file = "mods/-史诗战斗-车万女仆-epicfight_touhoulittlemaid-1-20-1-1-3-3-all.pw.toml"
@@ -716,8 +748,8 @@ file = "mods/ognmarts-0.1.6-beta.jar"
 hash = "95f8a073b4cc832953ec5ec196ee308d73d98834bc830f0a7a2fcfe2748b1a9e"
 
 [[files]]
-file = "mods/operator_skills-0.3.7.jar"
-hash = "734395040a35d87de8fa3ee7dbb65122df3c9a9f75cc74467491123a9845e0ba"
+file = "mods/operator_skills-0.4.0.jar"
+hash = "11aa87da5fc6dc1142f9a5b9fc02ddf122687b85d9c4a5853604f95002e913cb"
 
 [[files]]
 file = "mods/origins-forge.pw.toml"
@@ -1001,3 +1033,7 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "aa463005ddcc4f556053f9e897393c358a070fef3669598a7850f3e7e9865a64"
 metafile = true
+
+[[files]]
+file = "tlm_custom_pack/operator-skills-tlm-models-1.3.0.zip"
+hash = "b1808659427fec584be90ad04c518dee095e0fdc413153dcc892f880f5b6e336"

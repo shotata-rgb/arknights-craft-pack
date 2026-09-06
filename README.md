@@ -2,6 +2,10 @@
 
 Arknights Craft サーバー用の packwiz MODパック定義リポジトリです。
 
+現行パック `1.0.1` は `operator_skills` 0.4.0 とTLMモデルパック1.3.0を配布し、
+Epic Fight 20.14.16／Epic Fight–TLM 1.3.3によるオペレーターの歩行・近接戦闘モーションに対応します。
+TaCZ銃の射撃時はTLMの銃撃タスクを維持します。
+
 ## 🌐 GitHub Pages 公開設定
 1. このリポジトリの **Settings** > **Pages** を開きます。
 2. **Build and deployment** の Source で **Deploy from a branch** を選択。
