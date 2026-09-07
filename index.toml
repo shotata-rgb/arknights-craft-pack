@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "78ab7ab3c96b6a162d298ed1eb57290fc979eb77bf736bf311998c6039a16f23"
+hash = "895d3ee385819d7384f54e3410f476fdb4f3e2521fb8a08b68d37e9beb2266cd"
 
 [[files]]
 file = "SEABORN_DATAPACK_DEPLOY.md"
@@ -11,6 +11,18 @@ hash = "4154c4c940fcb2a3110cc1320917a5576906793fa993bb349875697a244a2ac1"
 [[files]]
 file = "config/epicfight-common.toml"
 hash = "d07af95da89e2f2b77d39ab83e27fe1cba56a43537af88c79f13bfab68736bba"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "4c8c13016c028472bc38412811a4b4a6d01be284cadbab8f65a1c4ca8db08819"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "715f65919662b6b6d7d2169be2f876ef6bd2b7172d3fe0dfced9f5cc63b019a2"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "93a7525f338535e6713a263e4bce306fb96495ef568d1c5215e00a6029cb48da"
 
 [[files]]
 file = "config/weaponleveling.json"
@@ -50,11 +62,11 @@ hash = "4831b1dd6a08dc3d6c0a6985814a46449bd7df8dd985019d06779a964e00ac77"
 
 [[files]]
 file = "kubejs/server_scripts/gunpowder_overrides.js"
-hash = "15f012141b97938ff888601a0a444c3cc9bca0929e3a9e16a5cf10a49036bdc6"
+hash = "c59eb9401bf9e4f8067e1cec1789eda6930e6f06a228230e4affa6681a55af47"
 
 [[files]]
 file = "kubejs/server_scripts/replace_gunpowder.js"
-hash = "02d690876eca00083fba607f059f197b17a063b1be3e689ddeb6d3b296f86bd9"
+hash = "4b28ea9123f8c641db668a7a8b6daa38a78d5bf6b487940e3e5f30abe171ebf3"
 
 [[files]]
 file = "mods/-史诗战斗-车万女仆-epicfight_touhoulittlemaid-1-20-1-1-3-3-all.pw.toml"
@@ -190,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/attributes.pw.toml"
 hash = "6cf3028c6bbba1936405cd988a11626069676e678bc3caf440fe216bb0931f8c"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
 metafile = true
 
 [[files]]
@@ -427,6 +444,11 @@ hash = "30940119568076a1cfed03d375fe87e1e7501f9111fad433afc1741661916812"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "099a614fc791ed17aafb2efcfb882588837db2cc49af1953b983b1725e75017b"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
 metafile = true
@@ -586,6 +608,11 @@ file = "mods/gunsmithlib-forge-1.20.1-tacz1.1.8-6.1.0.jar"
 hash = "420fd7f6d6aaf0996e7187f07684e408d8ccfe586eb03932128dec09ef69e431"
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1a9564ded8e9cd1f843f9de7fc87ffbf73033aab51494205458b0e58cc0ab194"
+metafile = true
+
+[[files]]
 file = "mods/insanelib.pw.toml"
 hash = "a789f5b3295b434a4a347f1482c1c8737bde5e148a1b1bc62a3e9acbe265bdd9"
 metafile = true
@@ -736,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon-forge-1-6-0-1-20-1.pw.toml"
 hash = "03efca4bcb596e1ae5ee34883dc5c9048641c466cebf37c5d5feca2072d8c968"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "2448ee89974f5934aa9114270f3e6666cbe203bffe5be6c2905231bb5dc1af81"
 metafile = true
 
 [[files]]
