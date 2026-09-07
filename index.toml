@@ -22,7 +22,7 @@ hash = "715f65919662b6b6d7d2169be2f876ef6bd2b7172d3fe0dfced9f5cc63b019a2"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "9c8c57fe8d5dfc3d939eabbaa108bbbd09535fddaab0fe72eea6d2600835c8b4"
+hash = "587395e797c5e484e010bf87e0f309b802490bba7243138844cb088d6869902e"
 
 [[files]]
 file = "config/modernfix-mixins.properties"

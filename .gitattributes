@@ -1,5 +1,9 @@
-* text=auto
+* text=auto eol=lf
 *.toml text eol=lf
 *.pw.toml text eol=lf
 *.json text eol=lf
 *.mcmeta text eol=lf
+*.ini text eol=lf
+*.properties text eol=lf
+*.snbt text eol=lf
+*.txt text eol=lf
