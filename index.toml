@@ -21,6 +21,10 @@ file = "config/flywheel-client.toml"
 hash = "715f65919662b6b6d7d2169be2f876ef6bd2b7172d3fe0dfced9f5cc63b019a2"
 
 [[files]]
+file = "config/jei/jei-client.ini"
+hash = "9c8c57fe8d5dfc3d939eabbaa108bbbd09535fddaab0fe72eea6d2600835c8b4"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "93a7525f338535e6713a263e4bce306fb96495ef568d1c5215e00a6029cb48da"
 
