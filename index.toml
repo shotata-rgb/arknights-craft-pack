@@ -794,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/oripathymod-1.0.0.jar"
-hash = "ec0539dc727f318d74913cd9ced75d11e41f7bada44ecdb6bfc94b556879599c"
+hash = "c612442395a8caf5a7753ab00369de6ff17c7282d254e3909b0971c813471d15"
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
