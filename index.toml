@@ -69,6 +69,10 @@ file = "kubejs/server_scripts/gunpowder_overrides.js"
 hash = "c59eb9401bf9e4f8067e1cec1789eda6930e6f06a228230e4affa6681a55af47"
 
 [[files]]
+file = "kubejs/server_scripts/originium_integration.js"
+hash = "010ad90386486a965216514eafb4fd9c44b50439003d6717f5c96702246770bc"
+
+[[files]]
 file = "kubejs/server_scripts/replace_gunpowder.js"
 hash = "4b28ea9123f8c641db668a7a8b6daa38a78d5bf6b487940e3e5f30abe171ebf3"
 
@@ -162,11 +166,11 @@ metafile = true
 
 [[files]]
 file = "mods/arknights_races-1.5.0-1.20.1-forge.jar"
-hash = "2cc032c3c9a55f12628eb7f00a9d1be59b0a6ef54ec411ddad0e5ecce9085800"
+hash = "e6c28787b38e0ae6c7e2ea125d843bcadd1e54144a364e3f125161e49132d086"
 
 [[files]]
 file = "mods/arknights_skills_full-1.0.0-1.20.1.jar"
-hash = "7a2f11216eda9cdd4839441101a2807bfef4c39ad76ec38ba81eae3b8c9dd639"
+hash = "79101a8676051fd848f7f13d61cab68051fedbe801f502718c43514dafcd79ba"
 
 [[files]]
 file = "mods/arknightsfurniture.pw.toml"
@@ -794,7 +798,7 @@ metafile = true
 
 [[files]]
 file = "mods/oripathymod-1.0.0.jar"
-hash = "c612442395a8caf5a7753ab00369de6ff17c7282d254e3909b0971c813471d15"
+hash = "102ff0f594a50f3059e989224caa0045163e338b870c74c154e707449bd41a98"
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
